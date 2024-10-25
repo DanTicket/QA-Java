@@ -35,7 +35,6 @@ public class Main {
 
         System.out.println("Hello, " + firstNameUser + " " + lastNameUser + "!");
 
-        // Part 2: Get two numbers and print their sum
         System.out.print("Enter the first number: ");
         int num1user = scanner.nextInt();
 
